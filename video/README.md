@@ -6,6 +6,12 @@ Folder containing everything around video. Every script has it's own readme file
 
 ## Avaiable scripts
 
+*i sort them here in the order of usefullness (in my experience)*
+
+*you can see the A -> Z sort above in the file viewer.*
+
+
+
 1. [Video Compressor](https://github.com/Jan-Bujnosek/scripts/tree/main/video/video_compressor)
 
 2. [Video to Image Sequence](https://github.com/Jan-Bujnosek/scripts/tree/main/video/video2img_sequence)
